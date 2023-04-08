@@ -1,0 +1,27 @@
+[
+    {
+      "key": 1,
+      "text": "Web3 platform",
+      "isSelected": true
+    },
+    {
+      "key": 2,
+      "text": "Crypto",
+      "isSelected": false
+    },
+    {
+      "key": 3,
+      "text": "AI",
+      "isSelected": false
+    },
+    {
+      "key": 4,
+      "text": "How to invest in crypto",
+      "isSelected": false
+    },
+    {
+      "key": 5,
+      "text": "What NFTs are popular now",
+      "isSelected": false
+    }
+  ]
